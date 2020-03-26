@@ -1,5 +1,5 @@
 theme: jekyll-theme-architect
-title: [The title of your site]
-description: [A short description of your site's purpose]
-show_downloads: ["true" or "false" to indicate whether to provide a download URL]
-google_analytics: [Your Google Analytics tracking ID]
+title: [Mauro Piva]
+description: [Computer Science Ph.D. Student @ Sapienza, University of Rome]
+show_downloads: ["false"]
+google_analytics: [UA-46301809-12]
