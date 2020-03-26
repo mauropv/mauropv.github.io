@@ -1,10 +1,10 @@
-## Welcome to GitHub Pages
+## About 
+I am currently a Ph.D. student at the Department of Computer Science of Sapienza University of Rome. My research interests lie in the field of wireless networks, with an emphasis on RFID and ultra low power sensors.
 
-You can use the [editor on GitHub](https://github.com/mauropv/mauropv.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### Publications
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+- p1
+- p2
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
