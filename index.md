@@ -1,10 +1,17 @@
 ## About 
 I am currently a Ph.D. student at the Department of Computer Science of Sapienza University of Rome. My research interests lie in the field of wireless networks, with an emphasis on RFID and ultra low power sensors.
 
-### Publications
+## Publications
 
-- p1
+- Gaia Maselli, Mauro Piva, John A. Stankovic, Matteo Pietrogiacomi,**Battery-Free Smart Objects based on RFID backscattering**. In **_IEEE IoT Magazine_**, September 2019.[Link](https://ieeexplore.ieee.org/document/8950966)
 - p2
+
+## Startups
+
+## Awards
+
+## Services
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
