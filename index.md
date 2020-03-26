@@ -3,7 +3,7 @@ I am currently a Ph.D. student at the Department of Computer Science of Sapienza
 
 ## Publications
 
-- Gaia Maselli, Mauro Piva, John A. Stankovic, Matteo Pietrogiacomi, **Battery-Free Smart Objects based on RFID backscattering**. In **_IEEE IoT Magazine_**, September 2019.[Link](https://ieeexplore.ieee.org/document/8950966)
+- Gaia Maselli, Mauro Piva, John A. Stankovic, Matteo Pietrogiacomi, **Battery-Free Smart Objects based on RFID backscattering**. In **_IEEE IoT Magazine_**, September 2019. [link](https://ieeexplore.ieee.org/document/8950966)
 - p2
 
 ## Startups
