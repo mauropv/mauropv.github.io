@@ -26,24 +26,24 @@ I am currently a [Ph.D. student](https://phd.uniroma1.it/web/MAURO-PIVA_nP153258
 
 ## Awards
 ### 2019
-- Winner of the Student Travel Grant for MobiHoc 2019, ACM SIGMOBILE Travel Grant, Catania, Italy
+- Winner of the Student Travel Grant for MobiHoc 2019, ACM SIGMOBILE Travel Grant; Catania, Italy
 
 ### 2018
-- Winner, Techfugees Rome 2017, awarded by Facebook and Unicef, Rome, Italy
-- Winner, CityJam 2018: awarded by Regione Lazio and LazioInnova, Rome, Italy
+- Winner, Techfugees Rome 2017, awarded by Facebook and Unicef; Rome, Italy
+- Winner, CityJam 2018: awarded by Regione Lazio and LazioInnova; Rome, Italy
 
 ### 2017
-- Winner, UniCredit International Demoday, Milan, Italy
-- Winner,BNP International Hackathon 2017Paris, France
-- Huawei Seeds for the Future 2017,Selected by MIUR among the best 10 undergraduate students in Italymajoring in Telecommunications Engineering and Computer Science for a visiting Experience organized byHuawei, MISE and MIUR. Visiting at the Huawei Global Research Headquarter.Shenzhen - Pechino,Cina
-- 2017Winner,UniCredit International Demoday 2017Milan, Italy
-- 2017Winner,BNP International Hackathon 2017Paris, France
-- 2017Selected,RockStart Amsterdam AI Accelerator 2017Amsterdam,Netherland 
+- Winner, UniCredit International Demoday; Milan, Italy
+- Winner, BNP International Hackathon 2017; Paris, France
+- Seeds for the Future 2017,Selected by MIUR for Visiting Huawei Global Research Headquarter in Shenzhen - Pechino; Cina
+- Winner, UniCredit International Demoday 2017; Milan, Italy
+- Selected, RockStart Amsterdam AI Accelerator; Amsterdam, Netherland 
+
 ### 2016
-- 2016Honours Programme,Awarded for academic achievementsLa Sapienza,University of Rome
-- Winner,MobiHack 2016: awarded by Trenitalia, Alstom, Regione ToscanaFlorence, Italy
-- Winner,PosteHack 2016: awarded by Poste ItalianeRome, Italy
-- 2016 Bronze,Google Technologies for Cloud and Web DevelopmentRome, Italy
+- Honours Programme, Awarded for academic achievements, La Sapienza, University of Rome
+- Winner, MobiHack 2016: awarded by Trenitalia, Alstom, Regione Toscana; Florence, Italy
+- Winner, PosteHack 2016: awarded by Poste Italiane; Rome, Italy
+- Bronze, Google Technologies for Cloud and Web Development; Rome, Italy
 
 ## Services (WIP)
--2018Mentoring,TechStars Startup Weekend,Latina, Italy2018
+- Mentoring, TechStars Startup Weekend; Latina, Italy
