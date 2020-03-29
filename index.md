@@ -3,6 +3,8 @@ I am currently a [Ph.D. student](https://phd.uniroma1.it/web/MAURO-PIVA_nP153258
 
 ## Publications
 
+- Andrea Coletta, Gaia Maselli, Mauro Piva, Domenicomichele Silvestri, Francesco Restuccia, **My SIM is Leaking My Data: Exposing Self-Login Privacy Breaches in Smartphones**. Submitted for publication to **_IEEE Security and Privacy Magazine_**, March 2020. [link](https://arxiv.org/abs/2003.08458)
+
 - Gaia Maselli, Mauro Piva, John A. Stankovic, Matteo Pietrogiacomi, **Battery-Free Smart Objects based on RFID backscattering**. In **_IEEE IoT Magazine_**, September 2019. [link](https://ieeexplore.ieee.org/document/8950966)
 
 - Gaia Maselli, Mauro Piva, John A. Stankovic, **Adaptive Communication for Battery-Free  Devices in Smart Homes**. In **_IEEE IoT Journal_**, April 2019. [link](https://ieeexplore.ieee.org/document/8698889)
@@ -17,11 +19,31 @@ I am currently a [Ph.D. student](https://phd.uniroma1.it/web/MAURO-PIVA_nP153258
 
 
 ## Startups (WIP)
-- CBO - artsquare.io
+
+- CBO - [artsquare.io](https://www.artsquare.io/)
 - Co-Founder - R&D allindustries.it
 - Co-Founder - R&D ToBe Kids
 
-## Awards (WIP)
+## Awards
+### 2019
+- Winner of the Student Travel Grant for MobiHoc 2019, ACM SIGMOBILE Travel Grant, Catania, Italy
+
+### 2018
+- Winner, Techfugees Rome 2017, awarded by Facebook and Unicef, Rome, Italy
+- Winner, CityJam 2018: awarded by Regione Lazio and LazioInnova, Rome, Italy
+
+### 2017
+- Winner, UniCredit International Demoday, Milan, Italy
+- Winner,BNP International Hackathon 2017Paris, France
+- Huawei Seeds for the Future 2017,Selected by MIUR among the best 10 undergraduate students in Italymajoring in Telecommunications Engineering and Computer Science for a visiting Experience organized byHuawei, MISE and MIUR. Visiting at the Huawei Global Research Headquarter.Shenzhen - Pechino,Cina
+- 2017Winner,UniCredit International Demoday 2017Milan, Italy
+- 2017Winner,BNP International Hackathon 2017Paris, France
+- 2017Selected,RockStart Amsterdam AI Accelerator 2017Amsterdam,Netherland 
+### 2016
+- 2016Honours Programme,Awarded for academic achievementsLa Sapienza,University of Rome
+- Winner,MobiHack 2016: awarded by Trenitalia, Alstom, Regione ToscanaFlorence, Italy
+- Winner,PosteHack 2016: awarded by Poste ItalianeRome, Italy
+- 2016 Bronze,Google Technologies for Cloud and Web DevelopmentRome, Italy
 
 ## Services (WIP)
-
+-2018Mentoring,TechStars Startup Weekend,Latina, Italy2018
