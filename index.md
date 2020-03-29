@@ -24,7 +24,7 @@ I am currently a [Ph.D. student](https://phd.uniroma1.it/web/MAURO-PIVA_nP153258
 - Co-Founder - R&D allindustries.it
 - Co-Founder - R&D ToBe Kids
 
-## Awards
+## Awards (WIP)
 ### 2019
 - Winner of the Student Travel Grant for MobiHoc 2019, ACM SIGMOBILE Travel Grant; Catania, Italy
 
