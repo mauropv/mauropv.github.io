@@ -46,4 +46,5 @@ I am currently a [Ph.D. student](https://phd.uniroma1.it/web/MAURO-PIVA_nP153258
 - Bronze, Google Technologies for Cloud and Web Development; Rome, Italy
 
 ## Services (WIP)
+- Finals Juror, EUvsVirus, an European Union baked hackathon with 20000+ participants; European Union
 - Mentoring, TechStars Startup Weekend; Latina, Italy
