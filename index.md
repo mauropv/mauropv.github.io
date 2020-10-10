@@ -3,7 +3,11 @@ I am currently a [Ph.D. student](https://phd.uniroma1.it/web/MAURO-PIVA_nP153258
 
 ## Publications
 
-- Andrea Coletta, Gaia Maselli, Mauro Piva, Domenicomichele Silvestri, Francesco Restuccia, **My SIM is Leaking My Data: Exposing Self-Login Privacy Breaches in Smartphones**. Submitted for publication to **_IEEE Security and Privacy Magazine_**. [link](https://arxiv.org/abs/2003.08458)
+- Andrea Coletta, Gaia Maselli, Mauro Piva, John A. Stankovic, **Environment-driven Communication in Battery-free Smart Buildings**. Submitted for publication to **_ACM Transaction on Internet of Things_**. [link]()
+
+- Andrea Coletta, Gaia Maselli, Mauro Piva, Domenicomichele Silvestri, **DEMO: DANGER: a drones aided network for guiding emergency and rescue operations**. In **_ACM MOBIHOC 2020_**. [link](https://dl.acm.org/doi/abs/10.1145/3397166.3415276)
+
+- Gaia Maselli, Mauro Piva, Francesco Restuccia, **HyBloSE: hybrid blockchain for secure-by-design smart environments**. In **_ACM CryBlock 2020_**. [link](https://dl.acm.org/doi/abs/10.1145/3410699.3413793)
 
 - Novella Bartolini, Andrea Coletta, Gaia Maselli, Mauro Piva, **DRUBER: A Trustable Decentralized Drone-based Delivery Systems**. In **_5th Workshop on Micro Aerial Vehicle Networks, Systems, and Applications - MobySys_**, June 2020. [link](https://dl.acm.org/doi/abs/10.1145/3396864.3399706)
 
