@@ -23,7 +23,6 @@ I am currently a [Ph.D. student](https://phd.uniroma1.it/web/MAURO-PIVA_nP153258
 
 - Gaia Maselli, Mauro Piva, Giorgia Ramponi, Deepak Ganesan, **Demo: JoyTag: a battery-less videogame controller exploiting RFID backscattering**. In **_ACM MOBICOM_**, November 2016. [link](https://dl.acm.org/doi/pdf/10.1145/2973750.2985628)
 
-
 ## Startups (WIP)
 
 - CBO - [artsquare.io](https://www.artsquare.io/)
@@ -52,5 +51,5 @@ I am currently a [Ph.D. student](https://phd.uniroma1.it/web/MAURO-PIVA_nP153258
 - Bronze, Google Technologies for Cloud and Web Development; Rome, Italy
 
 ## Services (WIP)
-- Finals Juror, EUvsVirus, an European Union baked hackathon with 20000+ participants; European Union
+- Finals Juror, EUvsVirus, an European Union backed hackathon with 20000+ participants; European Union
 - Mentoring, TechStars Startup Weekend; Latina, Italy
