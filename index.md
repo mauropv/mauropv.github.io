@@ -1,6 +1,11 @@
 ## About 
 I am currently a [Ph.D. student](https://phd.uniroma1.it/web/MAURO-PIVA_nP1532581_IT.aspx) at the [Department of Computer Science](https://www.di.uniroma1.it/) of Sapienza University of Rome, under the supervision of Prof. Gaia Maselli. My research interests lie in the field of wireless networks, with an emphasis on RFID and ultra low power sensors.
 
+## Dataset
+
+- Mauro Piva, Gaia Maselli, Francesco Restuccia, **Title**. Submitted for publication to **_Conf Title_**[link] (https://github.com/mauropv/RFID-Fingerprint2020)
+We are releasing 200GB of recorded RN16 from 200 different RFID tags. This dataset is used to test RFID fingerprint and data augmentation.
+
 ## Publications
 
 - Andrea Coletta, Gaia Maselli, Mauro Piva, John A. Stankovic, **Environment-driven Communication in Battery-free Smart Buildings**. Submitted for publication to **_ACM Transaction on Internet of Things_**. [link]()
