@@ -2,7 +2,8 @@
 I am currently a [Ph.D. student](https://phd.uniroma1.it/web/MAURO-PIVA_nP1532581_IT.aspx) at the [Department of Computer Science](https://www.di.uniroma1.it/) of Sapienza University of Rome, under the supervision of Prof. Gaia Maselli. My research interests lie in the field of wireless networks, with an emphasis on RFID and ultra low power sensors.
 
 ## News
-[01 feb 2021] Our last work, **Environment-driven Communication in Battery-free Smart Buildings**, has been accepted for publication to **_ACM Transaction on Internet of Things_**!
+[02 may 2021] Our last work, **The Tags Are Alright: Robust Large-Scale RFID Clone Detection Through Federated Data-Augmented Radio Fingerprinting**,Mauro Piva, Gaia Maselli, Francesco Restuccia - has been accepted for publication to **_MobiHoc 2021_**!
+[01 feb 2021] **Environment-driven Communication in Battery-free Smart Buildings**, has been accepted for publication to **_ACM Transaction on Internet of Things_**!
 
 ## Dataset
 
