@@ -3,6 +3,7 @@ I am currently a [Ph.D. student](https://phd.uniroma1.it/web/MAURO-PIVA_nP153258
 
 ## News
 [02 may 2021] Our last work, **The Tags Are Alright: Robust Large-Scale RFID Clone Detection Through Federated Data-Augmented Radio Fingerprinting**,Mauro Piva, Gaia Maselli, Francesco Restuccia - has been accepted for publication to **_MobiHoc 2021_**!
+
 [01 feb 2021] **Environment-driven Communication in Battery-free Smart Buildings**, has been accepted for publication to **_ACM Transaction on Internet of Things_**!
 
 ## Dataset
