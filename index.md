@@ -40,6 +40,7 @@ We are releasing 200GB of recorded RN16 from 200 different RFID tags. This datas
 - Co-Founder - R&D ToBe Kids
 
 ## Awards (WIP)
+
 ### 2019
 - Winner of the Student Travel Grant for MobiHoc 2019, ACM SIGMOBILE Travel Grant; Catania, Italy
 
@@ -61,5 +62,6 @@ We are releasing 200GB of recorded RN16 from 200 different RFID tags. This datas
 - Bronze, Google Technologies for Cloud and Web Development; Rome, Italy
 
 ## Services (WIP)
+- 2020, Security Vulnerabilities - Responsible Disclosure Hall of Fame - [Telecom Italia](https://www.gruppotim.it/en/footer/responsible-disclosure.html)
 - Finals Juror, EUvsVirus, an European Union backed hackathon with 20000+ participants; European Union
 - Mentoring, TechStars Startup Weekend; Latina, Italy
