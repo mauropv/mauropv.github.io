@@ -1,10 +1,10 @@
 ## About 
-I am currently a [Ph.D. student](https://phd.uniroma1.it/web/MAURO-PIVA_nP1532581_IT.aspx) at the [Department of Computer Science](https://www.di.uniroma1.it/) of Sapienza University of Rome, under the supervision of Prof. Gaia Maselli. My research interests lie in the field of wireless networks, with an emphasis on RFID and ultra low power sensors.
+I'm now an MBA fellow at the Collège des Ingénieurs, ending in november 2021. I got my Ph.D. in computer science at the [Department of Computer Science](https://www.di.uniroma1.it/) of Sapienza University of Rome, under the supervision of Prof. Gaia Maselli. My research interests lie in the field of wireless networks, with an emphasis on RFID and ultra low power sensors.
 
 ## News
-[02 may 2021] Our last work, **The Tags Are Alright: Robust Large-Scale RFID Clone Detection Through Federated Data-Augmented Radio Fingerprinting**,Mauro Piva, Gaia Maselli, Francesco Restuccia - has been accepted for publication to **_MobiHoc 2021_**!
+[8 jul 2021] I finished my Ph.D. studies at Sapienza, with a thesis titled "Smart and Green buildings: a bottom up approach"!
 
-[01 feb 2021] **Environment-driven Communication in Battery-free Smart Buildings**, has been accepted for publication to **_ACM Transaction on Internet of Things_**!
+[02 may 2021] Our last work, **The Tags Are Alright: Robust Large-Scale RFID Clone Detection Through Federated Data-Augmented Radio Fingerprinting**,Mauro Piva, Gaia Maselli, Francesco Restuccia - has been accepted for publication to **_MobiHoc 2021_**!
 
 ## Dataset
 
@@ -13,7 +13,7 @@ We are releasing 200GB of recorded RN16 from 200 different RFID tags. This datas
 
 ## Publications
 
-- Andrea Coletta, Gaia Maselli, Mauro Piva, John A. Stankovic, **Environment-driven Communication in Battery-free Smart Buildings**. Accepted for publication to **_ACM Transaction on Internet of Things_**. [link]()
+- Andrea Coletta, Gaia Maselli, Mauro Piva, John A. Stankovic, **Environment-driven Communication in Battery-free Smart Buildings**. In **ACM Transactions on Internet of Things**, Volume 2Issue 2May 2021 Article No.: 14pp 1–30. [link](https://dl.acm.org/doi/abs/10.1145/3448739)
 
 - Andrea Coletta, Gaia Maselli, Mauro Piva, Domenicomichele Silvestri, **DEMO: DANGER: a drones aided network for guiding emergency and rescue operations**. In **_ACM MOBIHOC 2020_**. [link](https://dl.acm.org/doi/abs/10.1145/3397166.3415276)
 
