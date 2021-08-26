@@ -1,10 +1,10 @@
 ## About 
-I'm now an MBA fellow at the Collège des Ingénieurs, ending in november 2021. I got my Ph.D. in computer science at the [Department of Computer Science](https://www.di.uniroma1.it/) of Sapienza University of Rome, under the supervision of Prof. Gaia Maselli. My research interests lie in the field of wireless networks, with an emphasis on RFID and ultra low power sensors.
+I'm now an MBA fellow at the Collège des Ingénieurs, ending in november 2021. I'm now working in the field of fin-tech, mainly on blockchain and welfare credits.  I got my Ph.D. in computer science at the [Department of Computer Science](https://www.di.uniroma1.it/) of Sapienza University of Rome, under the supervision of Prof. Gaia Maselli. My research interests lay in the field of wireless networks, with emphasis on RFID and ultra low power sensors.
 
 ## News
 [8 jul 2021] I finished my Ph.D. studies at Sapienza, with a thesis titled "Smart and Green buildings: a bottom up approach"!
 
-[02 may 2021] Our last work, **The Tags Are Alright: Robust Large-Scale RFID Clone Detection Through Federated Data-Augmented Radio Fingerprinting**,Mauro Piva, Gaia Maselli, Francesco Restuccia - has been accepted for publication to **_MobiHoc 2021_**!
+[02 may 2021] Our last work, **The Tags Are Alright: Robust Large-Scale RFID Clone Detection Through Federated Data-Augmented Radio Fingerprinting**,Mauro Piva, Gaia Maselli, Francesco Restuccia - has been published at **_MobiHoc 2021_**!
 
 ## Dataset
 
