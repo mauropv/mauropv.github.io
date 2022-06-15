@@ -33,12 +33,6 @@ We are releasing 200GB of recorded RN16 from 200 different RFID tags. This datas
 
 - Gaia Maselli, Mauro Piva, Giorgia Ramponi, Deepak Ganesan, **Demo: JoyTag: a battery-less videogame controller exploiting RFID backscattering**. In **_ACM MOBICOM_**, November 2016. [link](https://dl.acm.org/doi/pdf/10.1145/2973750.2985628)
 
-## Startups (WIP)
-
-- CBO - [artsquare.io](https://www.artsquare.io/)
-- Co-Founder - R&D allindustries.it
-- Co-Founder - R&D ToBe Kids
-
 ## Awards (WIP)
 
 ### 2019
